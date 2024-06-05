@@ -70,17 +70,17 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ## ✅ Achievements
 
-### 🟢 Great collaboration with cross-department and cross-country stakeholders
+### ✔ Great collaboration with cross-department and cross-country stakeholders
 Working with different departments and the whole group of countries in CCH.
-### 🟢 Support during implementation of major applications
+### ✔ Support during implementation of major applications
 Financial and business analysis support in projects such as S/4 HANA implementation.
-### 🟢 Lead mobile testing initiative
+### ✔ Lead mobile testing initiative
 Primary mobile tester of the web application during the QA internal assignment.
-### 🟢 No audit findings
+### ✔ No audit findings
 No audit findings for the 6-years in CCH,neither as a financial specialist, nor as a developer.
-### 🟢 Resolved critical client issues
+### ✔ Resolved critical client issues
 Fix issues during big project initiatives or for critical month-end processes.
-### 🟢 24 live processes with UiPath
+### ✔ 24 live processes with UiPath
 Consulted, developed, implemented and supported 24 end-to-end processes as a UiPath Developer.
 
 
