@@ -16,7 +16,7 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ## 💼 Projects   
 
-### Here are 6 repositories showcasing my work on various projects and tools:
+### Here are 8 repositories showcasing my work on various projects and tools:
 
 #### 👉 **_Teodor.bg-Test-Cases:_ This repository serves as a showcase of test cases and quality assurance efforts.**
 
@@ -24,18 +24,19 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 #### 👉 **_Help-a-Paw-Android-Test-Cases:_ This repository serves as a showcase of test cases for mobile application.**
 
-#### 👉 **_SQL:_   The repository contains a collection of SQL exercises.**
+#### 👉 **_SQL:_   This repository contains a collection of SQL exercises.**
 
 #### 👉 **_HTML-CSS:_ This repository contains a series of HTML and CSS exercises.**
 
-#### 👉 **_Java Exercies:_**
+#### 👉 **_Java Exercies:_  This repository contains a collection of Java tasks, completed during SoftUni Basic and Fundamentals Modules.**
 
-#### 👉 **_Automated Test cases with Java:_**
+#### 👉 **_Automated Test cases with Java:_  This repository contains a collection of several automated test cases**
 
 
 ## 🎓 Education
 
 ## Quality Assurance Engineer at JQA Academy Group
+01.2024-05.2024
 
 • Fundamentals of Quality Assurance.
 
@@ -46,8 +47,10 @@ I have gained valuable experience by working on a variety of projects and utiliz
 • Working with tools and techniques related to the role processes.
 
 ## Manual QA Engineer at Skillo
+07.2023-08.2023
 
 ## Java Fundamentals Module at SoftUni
+05.2024 - Present
 /Completed Basic and Fundamentals with excellent results/
 
 ## Bachelor Degree in Informatics at New Bulgarian University
@@ -64,7 +67,7 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 • Basic HTML & CSS
 
-• Basic SQL
+• Basic SQL and MongoDB
 
 • Basic Jmeter
 
@@ -76,11 +79,28 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 • Qase
 
-• Chrome Dev Tool
+• Chrome Dev Tools
 
 • Basic Jira
 
 • Trello
+
+• MS Azure DevOps
+
+• UiPath- Robotic Process Automation (RPA) Software (Advanced)
+
+• Java
+
+• SAP
+
+• IntelliJ IDEA
+
+• Visual Studio Code
+
+• Miro and Canva tools for visualization purposes
+
+• 
+
 
 ## 🌐 Interests
 
