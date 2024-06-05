@@ -1,12 +1,102 @@
-- 👋 Hi, I’m @BorislavAngeloff
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome to My GitHub Profile 👋
 
-<!---
-BorislavAngeloff/BorislavAngeloff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 👨‍💻 About Me
+
+Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course.
+
+I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
+
+
+## 💼 Projects   
+
+### Here are 6 repositories showcasing my work on various projects and tools:
+
+#### 👉 **_Teodor.bg-Test-Cases:_ This repository serves as a showcase of test cases and quality assurance efforts.**
+
+#### 👉 **_Workout.bg-Test-Cases:_ This repository serves as a showcase of test cases.**
+
+#### 👉 **_Help-a-Paw-Android-Test-Cases:_ This repository serves as a showcase of test cases for mobile application.**
+
+#### 👉 **_SQL:_   The repository contains a collection of SQL exercises.**
+
+#### 👉 **_HTML-CSS:_ This repository contains a series of HTML and CSS exercises.**
+
+#### 👉 **_Java Exercies:_**
+
+#### 👉 **_Automated Test cases with Java:_**
+
+
+## 🎓 Education
+
+## Quality Assurance Engineer at JQA Academy Group
+
+• Fundamentals of Quality Assurance.
+
+• Test cases planning, design and execution.
+
+• Understanding of Agile, SCRUM and SDLC processes.
+
+• Working with tools and techniques related to the role processes.
+
+## Manual QA Engineer at Skillo
+
+## Java Fundamentals Module at SoftUni
+/Completed Basic and Fundamentals with excellent results/
+
+## Bachelor Degree in Informatics at New Bulgarian University
+2022 - Present
+
+## Master Degree in Banking and Finance at The University of Sheffield
+2013 - 2015
+
+## Bachelor Degree in Accounting at University of National and World Economy
+2008 - 2013
+
+
+## 🚀 Skills
+
+• Basic HTML & CSS
+
+• Basic SQL
+
+• Basic Jmeter
+
+• Basic Postman
+
+• Design of test cases and execution
+
+• Scrum
+
+• Qase
+
+• Chrome Dev Tool
+
+• Basic Jira
+
+• Trello
+
+## 🌐 Interests
+
+• 🌍 Travel
+
+• 🚴 Motorcycling
+
+• 💪 Sport
+
+• 📖 Learning new things
+
+## Contacts
+
+• 📧 Email: borislavangeloff@gmail.com
+
+• 🌐 LinkedIn: https://www.linkedin.com/in/borislav-angelov-6a86974b/
+
+
+
+
+
+
+
+
+
