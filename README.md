@@ -46,7 +46,7 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 • Working with tools and techniques related to the role processes.
 
-## Manual QA Engineer at Skillo
+## Manual Quality Assurance Engineer at Skillo
 07.2023-08.2023
 
 ## Java Fundamentals Module at SoftUni
@@ -65,41 +65,23 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ## 🚀 Skills
 
-• Basic HTML & CSS
+✔ Design of test cases and execution  ✔ Basic HTML & CSS  ✔ Basic SQL and MongoDB  ✔ Basic Jmeter  ✔ Basic Jenkins  ✔ Basic Postman  ✔ Scrum ✔ Qase  ✔ Chrome Dev Tools
+✔ Jira  ✔ Basic Jira  ✔ MS Azure DevOps  ✔ UiPath- Robotic Process Automation (RPA) Software (Advanced)  ✔ Java  ✔ SAP  ✔ IntelliJ IDEA  ✔ Visual Studio Code  ✔ Miro and Canva tools for visualization purposes
 
-• Basic SQL and MongoDB
+## ✅ Achievements
 
-• Basic Jmeter
-
-• Basic Postman
-
-• Design of test cases and execution
-
-• Scrum
-
-• Qase
-
-• Chrome Dev Tools
-
-• Basic Jira
-
-• Trello
-
-• MS Azure DevOps
-
-• UiPath- Robotic Process Automation (RPA) Software (Advanced)
-
-• Java
-
-• SAP
-
-• IntelliJ IDEA
-
-• Visual Studio Code
-
-• Miro and Canva tools for visualization purposes
-
-• 
+### 🟢 Great collaboration with cross-department and cross-country stakeholders
+Working with different departments and the whole group of countries in CCH.
+### 🟢 Support during implementation of major applications
+Financial and business analysis support in projects such as S/4 HANA implementation.
+### 🟢 Lead mobile testing initiative
+Primary mobile tester of the web application during the QA internal assignment.
+### 🟢 No audit findings
+No audit findings for the 6-years in CCH,neither as a financial specialist, nor as a developer.
+### 🟢 Resolved critical client issues
+Fix issues during big project initiatives or for critical month-end processes.
+### 🟢 24 live processes with UiPath
+Consulted, developed, implemented and supported 24 end-to-end processes as a UiPath Developer.
 
 
 ## 🌐 Interests
