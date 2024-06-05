@@ -24,11 +24,11 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 #### 👉 **_Help-a-Paw-Android-Test-Cases:_ This repository serves as a showcase of test cases for mobile application.**
 
-#### 👉 **_SQL:_   This repository contains a collection of SQL exercises.**
+#### 👉 **_SQL Exercises:_   This repository contains a collection of SQL exercises.**
 
-#### 👉 **_HTML-CSS:_ This repository contains a series of HTML and CSS exercises.**
+#### 👉 **_HTML-CSS Exercises:_ This repository contains a series of HTML and CSS exercises.**
 
-#### 👉 **_Java Exercies:_  This repository contains a collection of Java tasks, completed during SoftUni Basic and Fundamentals Modules.**
+#### 👉 **_Java Exercises:_  This repository contains a collection of Java tasks, completed during SoftUni Basic and Fundamentals Modules.**
 
 #### 👉 **_Automated Test cases with Java:_  This repository contains a collection of several automated test cases**
 
