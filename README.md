@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course.
+Hello! 👋 I'm a committed and detail-oriented person who has recently graduated from a QA Engineer course. My strong attention to detail and passion for quality assurance drive me to excel in ensuring software reliability and performance. I'm eager to apply my skills and knowledge to contribute effectively to a dynamic team.
 
 As an IT professional, but also with a financial background, my interest is mainly focused on the new technologies area, modern applications, and tools, that could be used daily, at work or home.
 
@@ -11,7 +11,7 @@ The integration between software and hardware, software and other tools to impro
 Cloud computing is another topic, that brings my attention, to be up to date with the new way of usage and delivery of a product.
 Based on experience, Quality Assurance is a critical area that could define if a product would be successful or not.
 
-I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
+Through my involvement in a multitude of projects and the utilization of a range of tools, I've amassed valuable experience, which I've diligently polished and refined. Across eight repositories, you'll find a demonstration of my commitment and expertise, reflecting the depth of my skills and dedication.
 
 
 ## 💼 Projects   
