@@ -30,7 +30,7 @@ Through my involvement in a multitude of projects and the utilization of a range
 
 #### 👉 **_Java Exercises:_  This repository contains a collection of Java tasks, completed during SoftUni Basic and Fundamentals Modules.**
 
-#### 👉 **_Automated Test cases with Java:_  This repository contains a collection of several automated test cases**
+#### 👉 **_Automated Test cases with Java:_  This repository contains a collection of several automated test cases.**
 
 
 ## 🎓 Education
