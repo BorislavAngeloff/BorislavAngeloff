@@ -88,7 +88,7 @@ Consulted, developed, implemented and supported 24 end-to-end processes as a UiP
 
 • 🌍 Travel
 
-• 🚴 Motorcycling
+• 🏍 Motorcycling
 
 • 💪 Sport
 
