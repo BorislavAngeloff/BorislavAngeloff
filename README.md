@@ -85,7 +85,7 @@ No audit findings for the 6-years in CCH,neither as a financial specialist, nor 
 ### ✔ Resolved critical client issues
 Fix issues during big project initiatives or for critical month-end processes.
 ### ✔ 24 live processes with UiPath
-Consulted, developed, implemented and supported 24 end-to-end processes as a UiPath Developer.
+Consulted, developed, implemented and supported 24 end-to-end processes as an UiPath Developer.
 
 
 ## 📌 Interests
