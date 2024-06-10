@@ -18,15 +18,15 @@ Through my involvement in a multitude of projects and the utilization of a range
 
 ### Here are 10 repositories showcasing my work on various projects and tools:
 
-#### 👉 **_Teodor.bg-Test-Cases:_ This repository serves as a showcase of test cases and quality assurance efforts.**
+#### 👉 **_Teodor.bg-Test_Cases:_ This repository serves as a showcase of test cases and quality assurance efforts.**
 
-#### 👉 **_Workout.bg-Test-Cases:_ This repository serves as a showcase of test cases.**
+#### 👉 **_Workout.bg-Test_Cases:_ This repository serves as a showcase of test cases.**
 
-#### 👉 **_Help-a-Paw-Android-Test-Cases:_ This repository serves as a showcase of test cases for mobile application.**
+#### 👉 **_Help-a-Paw-Android-Test_Cases:_ This repository serves as a showcase of test cases for mobile application.**
 
-#### 👉 **_Bugs_Test_Site:_  This repository contains a collection of bugs, found during testing of a test site.**
+#### 👉 **_Bugs-Test_Site:_  This repository contains a collection of bugs, found during testing of a test site.**
 
-#### 👉 **_Bugs_Live_Site:_  This repository contains a collection of bugs, found during testing of a real live site.**
+#### 👉 **_Bugs-Live_Site:_  This repository contains a collection of bugs, found during testing of a real live site.**
 
 #### 👉 **_SQL Exercises:_   This repository contains a collection of SQL exercises.**
 
