@@ -70,7 +70,7 @@ Through my involvement in a multitude of projects and the utilization of a range
 ## 🚀 Skills
 
 ✔ Design of test cases and execution  ✔ Basic HTML & CSS  ✔ Basic SQL and MongoDB  ✔ Basic Jmeter  ✔ Basic Jenkins  ✔ Basic Postman  ✔ Scrum ✔ Qase  ✔ Chrome Dev Tools
-✔ Jira  ✔ Basic Jira  ✔ MS Azure DevOps  ✔ UiPath- Robotic Process Automation (RPA) Software (Advanced)  ✔ Java  ✔ SAP  ✔ IntelliJ IDEA  ✔ Visual Studio Code  ✔ Miro and Canva tools for visualization purposes
+✔ Jira ✔ MS Azure DevOps  ✔ UiPath- Robotic Process Automation (RPA) Software (Advanced)  ✔ Java  ✔ SAP  ✔ IntelliJ IDEA  ✔ Visual Studio Code  ✔ Miro and Canva tools for visualization purposes
 
 ## ✅ Achievements
 
