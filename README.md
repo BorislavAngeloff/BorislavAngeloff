@@ -94,11 +94,7 @@ Consulted, developed, implemented and supported 24 end-to-end processes as a UiP
 
 • 📖 Learning new things
 
-## Contacts
 
-• 📧 Email: borislavangeloff@gmail.com
-
-• 🌐 LinkedIn: https://www.linkedin.com/in/borislav-angelov-6a86974b/
 
 
 
