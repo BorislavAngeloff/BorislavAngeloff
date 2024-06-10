@@ -84,7 +84,7 @@ Fix issues during big project initiatives or for critical month-end processes.
 Consulted, developed, implemented and supported 24 end-to-end processes as a UiPath Developer.
 
 
-## 🫶 Interests
+## 📌 Interests
 
 • 🌍 Travel
 
